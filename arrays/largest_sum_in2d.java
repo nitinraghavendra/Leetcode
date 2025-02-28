@@ -1,3 +1,4 @@
+package arrays;
 //https://leetcode.com/problems/richest-customer-wealth/description/
 
 public class largest_sum_in2d{

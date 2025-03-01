@@ -1,6 +1,6 @@
 package arrays;
 //Find Numbers with Even Number of Digits and output the noof them 
-public class evendigits {
+public class even_noof_digits {
     public static void main(String[] args) {
         int[] arr = {15 , 22 ,3423,5 ,35456,25,267,23,12,3};
         System.out.println(evendigits(arr));

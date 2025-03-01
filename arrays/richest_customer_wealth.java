@@ -1,7 +1,7 @@
 package arrays;
 //https://leetcode.com/problems/richest-customer-wealth/description/
 
-public class largest_sum_in2d{
+public class richest_customer_wealth{
     public static void main(String[] args) {
         int[][] accounts = {
             {34,3,5,3,7},
